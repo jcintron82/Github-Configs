@@ -7,7 +7,7 @@ Proficiencies:
 
 -CSS
 
--JavaScript (including react and Node)
+-JavaScript (including React and Node)
 
 Questions? Come shoot me a message on
 LinkedIn!
