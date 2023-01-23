@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/jc29966790" target="blank"><img src="https://img.shields.io/twitter/follow/jc29966790?logo=twitter&style=for-the-badge" alt="jc29966790" /></a> </p> -->
 
-- 🔭 I’m currently working on [Inventory Management Application](https://github.com/jcintron82/Inventory-System)
+- 🔭 I’m currently working solo on an [Inventory Management Application](https://github.com/jcintron82/Inventory-System) and collaborating with other engineers to create an [E-Commerce Store](https://github.com/jcintron82/Green-Energy-ECommerce)
 
 - 👨‍💻 All of my projects are available at [https://www.jcintron.dev/](https://www.jcintron.dev/)
 
@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/j_cintron82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jc29966790" height="30" width="40" /></a>
+<a href="https://twitter.com/JCintronDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jc29966790" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jgcintron82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jgcintron82/" height="30" width="40" /></a>
 </p>
 
