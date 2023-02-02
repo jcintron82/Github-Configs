@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/jc29966790" target="blank"><img src="https://img.shields.io/twitter/follow/jc29966790?logo=twitter&style=for-the-badge" alt="jc29966790" /></a> </p> -->
 
-- 🔭 I’m currently working solo on an [Inventory Management Application](https://github.com/jcintron82/Inventory-System) and collaborating with other engineers to create an [E-Commerce Store](https://github.com/jcintron82/Green-Energy-ECommerce)
+- 🔭 I’m currently working solo on a restuarant [Point-of-Sale system](https://github.com/jcintron82/Point-of-Sale) and collaborating with other engineers to create an [E-Commerce Store](https://github.com/jcintron82/Green-Energy-ECommerce)
 
 - 👨‍💻 All of my projects are available at [https://www.jcintron.dev/](https://www.jcintron.dev/)
 
-- 🌱 I’m currently learning **How to further improve my CSS skillset**
+- 🌱 I’m currently interested in **software arhcitecture and flow**
 
 <!-- - 📝 I regularly write articles on [https://twitter.com/Jc29966790](https://twitter.com/Jc29966790) -->
 
