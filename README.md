@@ -26,7 +26,7 @@
 
 <!-- - 📄 Know about my experiences [Resume](Resume) -->
 
-- ⚡ Fun fact about me **I have skydived 6 times!**
+- ⚡ Fun fact about me **I've jumped out of a plane 6 times!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
