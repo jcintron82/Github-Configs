@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on a [hotel and flight booking application](https://github.com/jcintron82/travel-site)
 
-- 👨‍💻 All of my projects are available at [https://www.jcintron.dev/](https://www.jcintron.dev/)
+- 👨‍💻 My current portfolio can be found at [https://www.jcintron.dev/](https://www.jcintron.dev/)
 
 - 🌱 I’m currently interested in **software arhcitecture and design**
 
