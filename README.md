@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/jc29966790" target="blank"><img src="https://img.shields.io/twitter/follow/jc29966790?logo=twitter&style=for-the-badge" alt="jc29966790" /></a> </p> --> -->
 
-- 🔭 I’m currently working on a [hotel and flight booking application](https://github.com/jcintron82/travel-site)
+- 🔭 I’m currently working on a [tool](https://github.com/jcintron82/KeystoneRx) to help others find the most affordable medicine near them.
 
 - 👨‍💻 My current portfolio can be found at [https://www.jcintron.dev/](https://www.jcintron.dev/)
 
