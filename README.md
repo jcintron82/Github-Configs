@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript, React.js, Node.js, Express**
 
-- 📫 How to reach me **j.g.cintron2@gmail.com**
+
 
 <!-- - 📄 Know about my experiences [Resume](Resume) -->
 
