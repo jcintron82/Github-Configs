@@ -11,7 +11,7 @@
 
 <!-- - 📝 I regularly write articles on [https://twitter.com/Jc29966790](https://twitter.com/Jc29966790) -->
 
-- 💬 Ask me about **JavaScript, React.js, Node.js, Express**
+- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js**
 
 
 
