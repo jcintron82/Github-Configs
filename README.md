@@ -7,7 +7,7 @@
 
 - 👨‍💻 My current portfolio can be found at [https://www.jcintron.dev/](https://www.jcintron.dev/)
 
-- 🌱 I’m currently interested in **software arhcitecture and design**
+- 🌱 I’m currently interested in **software architecture and design**
 
 <!-- - 📝 I regularly write articles on [https://twitter.com/Jc29966790](https://twitter.com/Jc29966790) -->
 
