@@ -15,9 +15,7 @@
 
 
 
-<!-- - 📄 Know about my experiences [Resume](Resume) -->
-
-- ⚡ Fun fact about me **I've jumped out of a plane 6 times!**
+<!-- - 📄 Know about my experiences [Resume](Resume) --
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
